@@ -1,0 +1,5 @@
+In acest proiect s-a incercat realizarea unui sistem de Convolutional Neural Networks pentru resolvarea problemei din articolul:
+https://arxiv.org/abs/2006.01232?fbclid=IwAR3qD1mppm1edEbn3Terf_jGA_qdBAhaPFPq19hrMARul65nMpSvP2pJ3qc
+
+Baza de date folosita pentru acest proiect se regaseste la http://mrl.cs.vsb.cz/eyedataset.
+Aceasta baza de date trebuie descarcata, iar folderul de baza trebuie denumit 'Eyes' pentru rularea explicita a programului.
